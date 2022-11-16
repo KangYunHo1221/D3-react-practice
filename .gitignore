@@ -1,0 +1,12 @@
+env
+.env
+node_modules
+
+##zero-install
+.yarn/*
+.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
